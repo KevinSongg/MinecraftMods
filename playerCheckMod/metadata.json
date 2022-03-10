@@ -1,0 +1,7 @@
+{
+  "name": "PlayerChecker",
+  "creator": "SalmonAlt",
+  "description": "Constantly checks if people youre looking for are on hypixel",
+  "entry": "index.js",
+  "requires": ["requestV2"]
+}

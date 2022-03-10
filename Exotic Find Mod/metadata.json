@@ -1,0 +1,7 @@
+{
+  "name": "DyedArmour",
+  "creator": "SalmonAlt",
+  "description": "Fetches the inventories of all players in the lobby and checks for rare dyed armour.",
+  "entry": "index.js",
+  "requires": ["requestV2"]
+}
